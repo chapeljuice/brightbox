@@ -23,3 +23,8 @@ Then all you need to do is include `brightbox.min.js` and `brightbox.min.css` an
 
 #### Live Brightbox Demo: ####
 <a href="http://ryanchapel.com/brightbox/" target="_blank">http://ryanchapel.com/brightbox/</a>
+
+#### To-do's ####
+* Add arrows so you can navigate through the images without closing and clicking the next image.
+* Possibility of adding support for any element (div, video, etc.), not just images.
+* More to come. Have any suggestions? Let me hear them!
