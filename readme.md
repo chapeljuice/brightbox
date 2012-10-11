@@ -1,8 +1,8 @@
-# Brightbox README #
+## Brightbox README ##
 
-## A lightweight jquery plugin for adding a lightbox feature to your site ##
+### A lightweight jquery plugin for adding a lightbox feature to your site ###
 
-### How it works: ###
+#### How it works: ####
 
 What you need:
 * Image thumbnails (that users will click on)
@@ -20,3 +20,6 @@ Definitions:
 * "class='brightbox-thumb'" is needed, although you can add your own classes to this as well"
 
 Then all you need to do is include `brightbox.min.js` and `brightbox.min.css` and you're all good!
+
+#### Live Brightbox Demo: ####
+<a href="http://ryanchapel.com/brightbox/" target="_blank">http://ryanchapel.com/brightbox/</a>
